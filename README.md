@@ -75,6 +75,6 @@ Given a record of every transaction during a three month period, calculate the r
 
 # Screen Shots of Application:
 
-![screenshot1](https://github.com/rohitm94/Takehome/tree/master/images/image1.png)
+![screenshot1](https://github.com/rohitm94/Takehome/blob/master/images/image1.png)
 
-![screenshot2](https://github.com/rohitm94/Takehome/tree/master/images/image2.png)
+![screenshot2](https://github.com/rohitm94/Takehome/blob/master/images/image2.png)
