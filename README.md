@@ -20,10 +20,11 @@ Given a record of every transaction during a three month period, calculate the r
 
 # Assumptions:
 
-* Assumed the data is parsed is stored in JSON format i.e in NoSQL MongoDB
+* Assumed the data is parsed is stored in **JSON** format i.e in NoSQL MongoDB
 * Assumed the transactions data is huge and has much more data than 3 months data.
-* Assumption is made that datt is in this format:
-    `{
+* Assumption is made that data is in this format:
+    ```json
+    {
         "id": "customer1",
         "transactions": [
                             {
@@ -54,8 +55,8 @@ Given a record of every transaction during a three month period, calculate the r
     
                     ]
                 
-    }`
-* Assumption is made that the application takes Customer id as input and gives information about rewards on purchases as below:
+    }```
+* Assumption is made that the application takes **Customer id** as input and gives information about rewards on purchases as below:
     1. Rewards in Total
     2. How Rewards are distributed across past 90 days/ 3 months couting today.
 
@@ -63,8 +64,8 @@ Given a record of every transaction during a three month period, calculate the r
 # Approach
 
 * Front end Form is implemented to facilitate user to input his **unique** customer ID.
-* Results based on form input is displayed with Div and P tags
-* A _reset_ button is added to reset the form component.
+* Results based on form input is displayed with **div** and **p** tags
+* A **_reset_** button is added to reset the form component.
 * Some Css has been used to improve UI readibility and accessibility.
 
 
