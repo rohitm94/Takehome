@@ -55,7 +55,9 @@ Given a record of every transaction during a three month period, calculate the r
     
                     ]
                 
-    }```
+    }
+    
+    ```
 * Assumption is made that the application takes **Customer id** as input and gives information about rewards on purchases as below:
     1. Rewards in Total
     2. How Rewards are distributed across past 90 days/ 3 months couting today.
@@ -67,8 +69,12 @@ Given a record of every transaction during a three month period, calculate the r
 * Results based on form input is displayed with **div** and **p** tags
 * A **_reset_** button is added to reset the form component.
 * Some Css has been used to improve UI readibility and accessibility.
+* **parcel** Bundler has been used in this application
+* **CRA** was not used.
 
 
+# Screen Shots of Application:
 
+![screenshot1](https://github.com/rohitm94/Takehome/tree/master/images/image1.png)
 
-
+![screenshot2](https://github.com/rohitm94/Takehome/tree/master/images/image2.png)
