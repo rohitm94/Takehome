@@ -1,0 +1,61 @@
+[
+    {
+        "id": "customer1",
+        "transactions": [
+                            {
+                                "transactionId": 1,
+                                "amountSpent": 65,
+                                "date": "02/01/2020"
+                            },
+                            {
+                                "transactionId": 2,
+                                "amountSpent": 54,
+                                "date": "01/14/2020"
+                            },
+                            {
+                                "transactionId": 3,
+                                "amountSpent": 250,
+                                "date": "10/28/2019"
+                            },
+                            {
+                                "transactionId": 4,
+                                "amountSpent": 141,
+                                "date": "12/02/2019"
+                            },
+                            {
+                                "transactionId": 5,
+                                "amountSpent": 54,
+                                "date": "01/14/2020"
+                            }
+    
+                    ]
+                
+    },
+                    
+    {
+        "id": "customer2",
+        "transactions":[
+            {
+                "transactionId": 1,
+                "amountSpent": 165,
+                "date": "02/14/2020"
+            },
+            {
+                "transactionId": 2,
+                "amountSpent": 254,
+                "date": "01/12/2020"
+            },
+            {
+                "transactionId": 3,
+                "amountSpent": 20,
+                "date": "10/28/2019"
+            },
+            {
+                "transactionId": 4,
+                "amountSpent": 81,
+                "date": "11/22/2019"
+            }
+
+                        ]
+    }
+]
