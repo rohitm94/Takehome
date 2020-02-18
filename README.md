@@ -78,3 +78,8 @@ Given a record of every transaction during a three month period, calculate the r
 ![screenshot1](https://github.com/rohitm94/Takehome/blob/master/images/image1.png)
 
 ![screenshot2](https://github.com/rohitm94/Takehome/blob/master/images/image2.png)
+
+# Future Scope
+
+* Make receipts of purchase Accessible to  each customer registered with retailer for online/paperless bills.
+* Shopping feature to use the earned rewards as cashback or for gift cards.
